@@ -210,6 +210,7 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@wipfli](https://github.com/wipfli)
 
+test
 [@xabbu42](https://github.com/xabbu42) (localsearch)
 
 [@ZeLonewolf](https://github.com/ZeLonewolf)
