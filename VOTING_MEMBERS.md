@@ -217,3 +217,5 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 [@zhangyiatmicrosoft](https://github.com/zhangyiatmicrosoft) (Microsoft)
 
 [@zstadler](https://github.com/zstadler)
+
+[@github](https://github.com/github)
