@@ -74,6 +74,8 @@ The Voting Members, in alphabetic order by their GitHub handles, are:
 
 [@HandyMenny](https://github.com/HandyMenny)
 
+[@heisenberg](https://github.com/heisenberg) (Atom Corp.) 
+
 [@hoeflehner](https://github.com/hoeflehner) (Maptoolkit)
 
 [@hy9be](https://github.com/hy9be) (AWS)
